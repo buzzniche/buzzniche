@@ -621,6 +621,7 @@ p{
   .video-link{
     width: 330px;
     align-self: center;
+
   }
 
   .stats{
@@ -719,5 +720,8 @@ p{
 @media (max-height: 500px){
   .stats{
     height: 50vh;
+  }
+  .footer{
+    margin-bottom: 0px;
   }
 }
