@@ -618,6 +618,11 @@ p{
     line-height: 30px;
   }
 
+  .video-link{
+    width: 330px;
+    align-self: center;
+  }
+
   .stats{
     width: 80vw;
     display: grid;
